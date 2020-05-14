@@ -23,6 +23,7 @@ namespace WindowsFormsApp1
             button1.Text = "Кнопка";
             Form1.ActiveForm.BackColor = Color.Aqua;
 
+            textBox1.Text="Заполняем textbox";
 
         }
     }
