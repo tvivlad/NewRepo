@@ -28,6 +28,7 @@ namespace WindowsFormsApp1
             Form1.ActiveForm.Text = "Привет мир!!!";
             textBox1.Text = "новое обновление!!!";
             textBox1.Text = "Новое обновление 2!!!";
+            textBox1.Text="Новое обновление 3";
         }
     }
 }
