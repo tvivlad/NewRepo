@@ -24,8 +24,8 @@ namespace WindowsFormsApp1
             Form1.ActiveForm.BackColor = Color.Aqua;
 
             textBox1.Text="Заполняем textbox";
-
             textBox1.Text = "обновление текста";
+            Form1.ActiveForm.Text = "Привет мир!!!";
 
         }
     }
