@@ -20,6 +20,8 @@ namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             Form1.ActiveForm.Text = "Hello World!!!";
+            button1.Text = "Кнопка";
+
         }
     }
 }
