@@ -25,6 +25,8 @@ namespace WindowsFormsApp1
 
             textBox1.Text="Заполняем textbox";
 
+            textBox1.Text = "обновление текста";
+
         }
     }
 }
