@@ -21,6 +21,8 @@ namespace WindowsFormsApp1
         {
             Form1.ActiveForm.Text = "Hello World!!!";
             button1.Text = "Кнопка";
+            Form1.ActiveForm.BackColor = Color.Aqua;
+
 
         }
     }
